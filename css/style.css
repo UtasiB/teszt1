@@ -24,13 +24,20 @@ footer{
 
 main{
     padding: 10px;
-
 }
+
+.vers{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-bottom: 3%;
+  margin-top: 3%;
+  font-size: 100%;
+}
+
 img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    transition: .5s ease;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+    transition: .5s ease; 
 }
 
 .container{
