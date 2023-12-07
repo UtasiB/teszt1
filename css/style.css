@@ -14,10 +14,10 @@ header{
 }
 
 footer{
+    font-family: 'Courier New', Courier, monospace;
     background-color: black;
     color: white;
-    font-size: 80%;
-    letter-spacing: 3px;
+    font-size: 80%; 
     text-align: center;
     padding: 10px;
 }
@@ -28,6 +28,5 @@ main{
 
 .container{
     background-color: white;
-    box-shadow: 0 0 10px gray;
     padding: 10px;
 }
